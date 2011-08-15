@@ -16,8 +16,10 @@ name: Net-SMS-Mach
 requires:
   Carp: 0
   Data::Dumper: 0
+  Encode: 0
   HTTP::Request::Common: 0
+  LWP::UserAgent: 0
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=Net-SMS-Mach
   repository: git://github.com/terjek/net-sms-mach.git
-version: 0.01
+version: 0.02

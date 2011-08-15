@@ -1,6 +1,6 @@
 package Net::SMS::Mach;
 BEGIN {
-  $Net::SMS::Mach::VERSION = '0.01';
+  $Net::SMS::Mach::VERSION = '0.02';
 }
 
 # ABSTRACT: Send SMS messages via the Mach HTTP API
@@ -100,7 +100,7 @@ Net::SMS::Mach - Send SMS messages via the Mach HTTP API
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 
